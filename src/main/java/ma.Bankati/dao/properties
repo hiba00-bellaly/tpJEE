@@ -1,0 +1,5 @@
+SDB_Url =  jdbc:mysql://localhost:3306
+DB_Name = bankati
+SDB_Driver = com.mysql.cj.jdbc.Driver
+SDB_login = root
+SDB_pass =
